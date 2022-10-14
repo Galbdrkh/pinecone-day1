@@ -1,0 +1,11 @@
+.ner{
+    color: rgb(59, 56, 56);
+    background-color: blanchedalmond;
+    font-size: 20px;
+    width: 200px;
+} 
+.alienNer{
+    color: rgb(104, 97, 97);
+    background-color: blanchedalmond;
+    width: 250px;
+}
